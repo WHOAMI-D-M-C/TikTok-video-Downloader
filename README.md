@@ -8,4 +8,4 @@ git clone git://github.com/WHOAMI-XD-KING/TikTok-video-Downloader
 
 cd TikTok-video-Downloader
 
-python Tim.py
+python Tik.py
